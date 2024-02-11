@@ -1,6 +1,7 @@
 <h1>What is Pomodoro?</h1>
 
-The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It involves breaking work into intervals, traditionally 25 minutes in length, separated by short breaks. These intervals are known as "Pomodoris". 
+The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. <br>
+It involves breaking work into intervals, traditionally 25 minutes in length, separated by short breaks. These intervals are known as "Pomodoris". 
 
 
 <h1>How it works</h1>
